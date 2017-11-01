@@ -1,5 +1,51 @@
-h3{
-	color: blue;
-	background-color: lightgreen;
-	font-size: 60px;
+body{
+	border: solid 1px black;
+	box-shadow: 6px 6px 5px black;
+	width: 320px;
+	padding: 10px;
+
+}
+
+img{
+	width: 300px;
+	border: solid 1px silver;
+	box-shadow: 320px;
+	padding: 10px;
+
+}
+
+#fact{
+	font-style: italic;
+	background-color: yellow;
+}
+#notes{
+	background-color: yellow;
+}
+
+.line{
+	font-weight: bold;
+}
+
+#detail{
+	border: solid 1px silver;
+	width: 300px;
+	padding: 10px 10px 10px 10px;
+	background-image: url("Sky.JPG");
+
+}
+
+ul{
+	border:dashed 1px teal;
+	box-shadow: 320px;
+	padding: 1em;
+}
+li{
+	padding: 0;
+	margin: 0;
+}
+p {
+	border: solid 1px teal;
+	box-shadow: 6px 6px 5px teal;
+	width: 290px;
+	padding: 2px;
 }
